@@ -111,3 +111,8 @@ body {
     font-size: 28px;
     cursor: pointer;
 }
+@media{
+	.modal-content{
+		padding: 30px 20px;
+	}
+}
